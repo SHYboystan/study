@@ -6,6 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <div>
     <a href="https://vuejs.org/" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
+      <h1>dadasdasdas</h1>
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />

@@ -17,3 +17,4 @@ git push -f git@github.com/SHYboystan/study.git master:vue-h5
 #git push -f git@github.com:<shyboystan>/<REPO>.git master:gh-pages
 
 cd -
+
