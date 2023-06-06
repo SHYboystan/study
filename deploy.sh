@@ -3,7 +3,7 @@
 set -e
 
 # 构建
-npm run build
+pnpm run build
 
 # cd 到构建输出的目录下
 cd dist
