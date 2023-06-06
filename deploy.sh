@@ -13,7 +13,7 @@ git add -A
 git commit -m 'deploy'
 
 # 部署到 https://<shyboystan>.github.io/<REPO>
-git push -f git@github.com/SHYboystan/study.git master:gh-pages
+git push -f git@github.com/SHYboystan/study.git master:vue-h5
 #git push -f git@github.com:<shyboystan>/<REPO>.git master:gh-pages
 
 cd -
